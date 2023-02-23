@@ -1,0 +1,20 @@
+.block {
+    height: 10em;
+    width: 10em;
+}
+
+.block1 {
+    background-color: lightblue;
+}
+
+.block2 {
+    background-color: lightgreen;
+}
+
+.block3 {
+    background-color: lightseagreen;
+}
+
+.block4 {
+    background-color: lightpink;
+}
